@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/ADITHYA23000033/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514544/edb500a1-3282-45ba-8c3c-6fd32dd0add1)
+
+### Name: ADITHYA V
+### Register Number: 23000033
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
